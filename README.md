@@ -18,3 +18,4 @@ Below Libraries/modules are required as prerequisites
 3- download wordnet lemmarizer
 	>>import nltk
 	>>nltk.download('wordnet')
+	
